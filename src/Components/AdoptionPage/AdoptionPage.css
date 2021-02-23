@@ -1,0 +1,30 @@
+
+.name-list-style{
+    background-color:rgb(216, 128, 128);
+
+}
+
+.adoption-image {
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px solid;
+}
+
+img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.adopt-button{
+    border-radius: 4px;
+    background-color:white;
+    border: 2px solid green;
+    color: black
+    
+}
