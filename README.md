@@ -14,14 +14,14 @@ In the project directory, you can run:
 
 ### Back End (Server)
 - Node.js & Express
-    -- RESTful Api
+RESTful Api
 - Production
-    -- Deployed via Heroku
+Deployed via Heroku
 
 ### Front End (Client)
 - React
-    -- Create React
-    -- React Router
+Create React
+React Router
 
 - Production
-    -- Deployed via Vercel
+Deployed via Vercel
