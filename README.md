@@ -1,70 +1,27 @@
-# Petful Client
+# Petful FIFO 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with the intent of pairing a pet with a new home. Petful FIFO works in a First in First out basis and matches prospective owners with the cat or dog that has been in the shelter longest and is next in line. By adding your name, you will be added to the list of people in line, and will be allowed to choose either a cat or dog to adopt when you reach the front of the line. 
 
-## Available Scripts
+## Links to Live App & Repos
 
 In the project directory, you can run:
 
-### `npm start`
+![petfulScreenshot1](https://user-images.githubusercontent.com/70825798/108798408-9c916e00-7542-11eb-816a-a6b0e4596252.JPG)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![petfulScreenshot2](https://user-images.githubusercontent.com/70825798/108798441-aadf8a00-7542-11eb-9303-7dcee9df93cb.JPG)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Tech Stacks Used
 
-### `npm test`
+### Back End (Server)
+- Node.js & Express
+    -- RESTful Api
+- Production
+    -- Deployed via Heroku
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Front End (Client)
+- React
+    -- Create React
+    -- React Router
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- Production
+    -- Deployed via Vercel
