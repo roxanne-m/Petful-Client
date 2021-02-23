@@ -9,7 +9,7 @@ This project was created with the intent of pairing a pet with a new home. Petfu
     - https://github.com/roxanne-m/Petful-Server.git
 - Client Repo: 
     - https://github.com/roxanne-m/Petful-Client.git
-    - 
+  
 In the project directory, you can run:
 
 ![petfulScreenshot1](https://user-images.githubusercontent.com/70825798/108798408-9c916e00-7542-11eb-816a-a6b0e4596252.JPG)
